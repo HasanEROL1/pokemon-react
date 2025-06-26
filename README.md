@@ -13,4 +13,4 @@ Create React App	Projeyi başlatmak için scaffold aracı
 
 
 ![pokemon-game](https://github.com/user-attachments/assets/f5f5bc62-c04d-4914-944a-934f5c5a3db2)
-![pokemon-game](https://github.com/user-attachments/assets/f5f5bc62-c04d-4914-944a-934f5c5a3db2)
+
